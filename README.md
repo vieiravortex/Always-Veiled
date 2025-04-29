@@ -49,11 +49,11 @@ Key source files:
 - `Menu.cpp`: Handles the main menu and navigation.
 - `RiverLevel.cpp`, `StationLevel.cpp`: Implement level-specific mechanics.
 - `Renderer.cpp`, `Renderer.h`: Manages rendering of scenes, animations, and UI.
-- `resource.h`: Defines resource IDs (e.g., game icon).
+- `resource.h`: Defines resource IDs (game icon).
 
 Resources in `/x64/Release` include:
-- Sprite sheets for characters, enemies, and backgrounds (e.g., `Sprites/River/`, `Sprites/Train/`).
-- Fonts for UI and story text (e.g., `Fonts/Univers 45 Light Regular.otf`).
+- Sprite sheets for characters, enemies, and backgrounds (`Sprites/River/`, `Sprites/Train/`, etc.).
+- Fonts for UI and story text (`Fonts/Univers 45 Light Regular.otf` and etc.).
 - Game icon (`icon.png`).
 
 ## Dependencies
@@ -101,7 +101,7 @@ Resources in `/x64/Release` include:
 - **Pause**: Press `Escape` to pause and access the continue or main menu options.
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the Creative Commons Zero v1.0 Universal License. See the [LICENSE](LICENSE) file for details.
 
 ---
 Developed by Vieira Vortex as a tribute to someone special. 💫  
