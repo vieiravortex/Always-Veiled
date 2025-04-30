@@ -38,7 +38,6 @@ More details at [vieiravortex.github.io/alwaysveiled](https://vieiravortex.githu
 ```
 /Always Veiled
 ├── /Always Veiled           # Source code (.cpp and .h files)
-├── /SFML                    # SFML 2.6.2 (64-bit) library
 ├── /x64/Release             # Resources (sprites, fonts, .dll files)
 └── /Always Veiled.sln       # Visual Studio solution file
 ```
