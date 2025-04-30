@@ -68,8 +68,7 @@ Resources in `/x64/Release` include:
    ```
 
 2. **Set Up SFML**:
-   - Place SFML 2.6.2 (64-bit) in the `/SFML` directory.
-   - Alternatively, download SFML 2.6.2 from [sfml-dev.org](https://www.sfml-dev.org/download/sfml/2.6.2/) and configure it in Visual Studio.
+   - Download SFML 2.6.2 from [sfml-dev.org](https://www.sfml-dev.org/download/sfml/2.6.2/) and configure it in Visual Studio.
 
 3. **Open the Solution**:
    - Open `Always Veiled.sln` in Visual Studio.
