@@ -106,4 +106,5 @@ This project is licensed under the Creative Commons Zero v1.0 Universal License.
 ---
 Developed by Vieira Vortex as a tribute to someone special. 💫  
 Check out the source code on GitHub and join us in hoping for a little miracle! 👀  
-#VieiraVortex #AlwaysVeiled #AsiaVieira #TheOmen #TheRing #SilentHill #HorrorGame #IndieDev #SFML #C++
+
+#AsiaVieira #TheOmen #SilentHill #IndieGame #SilentHillInspired #HorrorGame #PsychologicalHorror #IndieHorror #HorrorAtmosphere #IndieDev #SurvivalHorror #DarkHorror #PsychologicalThriller #GamePrototype #C++ #SFML #CasualHorror #WhimsicalHorror #TechGeek #GameDev #BirthdayTribute #AsiaVieiraHappyBirthday #AsiaVieiraTribute #GitHub #LoveInTheDark #AlwaysVeiled #VieiraVortex #SFML
