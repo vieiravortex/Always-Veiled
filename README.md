@@ -1,5 +1,7 @@
 # Always Veiled
 
+![Cover](cover.jpg)
+
 **Always Veiled** is a heartfelt 2D horror game prototype (version v18.05.1982) developed from scratch using C++ and SFML 2.6.2 (64-bit). Created by Vieira Vortex as a birthday tribute inspired by classics like *The Ring* and *The Omen*, this prototype is a lighthearted yet eerie starting point for a future psychological horror game in the style of *Silent Hill*. Dedicated to someone special (we’re a bit shy to name her 😉), it’s a labor of love with a hope for a small miracle—perhaps a glimpse of her attention. 🌟
 
 This is not a full game but a prototype, showcasing two whimsical levels with a touch of mystery. The final vision will dive deeper into psychological horror, with a more immersive experience that may evolve beyond 2D. For now, enjoy the calming pace, custom-coded mechanics, and a spark of eerie atmosphere! 👁️
